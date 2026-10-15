@@ -9,7 +9,7 @@ codex login            # 브라우저에서 ChatGPT 구독 계정으로 로그�
 
 ## 2. 저장소 받기
 ```powershell
-git clone https://github.com/<계정>/ai-studio.git C:\ai-studio
+git clone https://github.com/eunjch/autoproject.git C:\ai-studio
 cd C:\ai-studio
 git config user.name "planner-pc"
 git config user.email "<본인 이메일>"

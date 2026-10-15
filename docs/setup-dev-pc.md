@@ -10,7 +10,7 @@ Docker Desktop은 WSL2 백엔드로 실행하고, "Start Docker Desktop when you
 
 ## 2. 저장소 받기
 ```powershell
-git clone https://github.com/<계정>/ai-studio.git C:\ai-studio
+git clone https://github.com/eunjch/autoproject.git C:\ai-studio
 cd C:\ai-studio
 git config user.name "dev-pc"
 git config user.email "<본인 이메일>"
